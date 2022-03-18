@@ -1,0 +1,16 @@
+E:\GameDev\DesignPatterns\bin\Debug\net5.0\DesignPatterns.exe
+E:\GameDev\DesignPatterns\bin\Debug\net5.0\DesignPatterns.deps.json
+E:\GameDev\DesignPatterns\bin\Debug\net5.0\DesignPatterns.runtimeconfig.json
+E:\GameDev\DesignPatterns\bin\Debug\net5.0\DesignPatterns.runtimeconfig.dev.json
+E:\GameDev\DesignPatterns\bin\Debug\net5.0\DesignPatterns.dll
+E:\GameDev\DesignPatterns\bin\Debug\net5.0\ref\DesignPatterns.dll
+E:\GameDev\DesignPatterns\bin\Debug\net5.0\DesignPatterns.pdb
+E:\GameDev\DesignPatterns\obj\Debug\net5.0\DesignPatterns.csproj.AssemblyReference.cache
+E:\GameDev\DesignPatterns\obj\Debug\net5.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+E:\GameDev\DesignPatterns\obj\Debug\net5.0\DesignPatterns.AssemblyInfoInputs.cache
+E:\GameDev\DesignPatterns\obj\Debug\net5.0\DesignPatterns.AssemblyInfo.cs
+E:\GameDev\DesignPatterns\obj\Debug\net5.0\DesignPatterns.csproj.CoreCompileInputs.cache
+E:\GameDev\DesignPatterns\obj\Debug\net5.0\DesignPatterns.dll
+E:\GameDev\DesignPatterns\obj\Debug\net5.0\ref\DesignPatterns.dll
+E:\GameDev\DesignPatterns\obj\Debug\net5.0\DesignPatterns.pdb
+E:\GameDev\DesignPatterns\obj\Debug\net5.0\DesignPatterns.genruntimeconfig.cache
