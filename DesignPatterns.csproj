@@ -6,7 +6,13 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Examples\Lift" />
+      <PackageReference Include="NUnit" Version="3.13.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="ExamplesTests\UnitTest1.cs">
+        <Link>TestProject1\UnitTest1.cs</Link>
+      </Compile>
     </ItemGroup>
 
 </Project>

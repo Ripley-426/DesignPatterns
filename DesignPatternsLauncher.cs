@@ -11,7 +11,8 @@
             //_tester = new CommandTester();
             //_tester = new StateTester();
             //_tester = new StrategyTester();
-            _tester = new ObserverTester();
+            //_tester = new ObserverTester();
+            _tester = new PrototypeTester();
             
             _tester.Run();
         }

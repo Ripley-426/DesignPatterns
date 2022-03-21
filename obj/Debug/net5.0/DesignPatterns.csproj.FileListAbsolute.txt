@@ -14,3 +14,5 @@ E:\GameDev\DesignPatterns\obj\Debug\net5.0\DesignPatterns.dll
 E:\GameDev\DesignPatterns\obj\Debug\net5.0\ref\DesignPatterns.dll
 E:\GameDev\DesignPatterns\obj\Debug\net5.0\DesignPatterns.pdb
 E:\GameDev\DesignPatterns\obj\Debug\net5.0\DesignPatterns.genruntimeconfig.cache
+E:\GameDev\DesignPatterns\bin\Debug\net5.0\nunit.framework.dll
+E:\GameDev\DesignPatterns\obj\Debug\net5.0\DesignPatterns.csproj.CopyComplete

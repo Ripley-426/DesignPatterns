@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "i7QKyJFE0Zg6iekJmoTEH2u3deDlN3d6If9Qeg/7nAiu3jq2WPHdv7gIVFhzS+nJyog94wbRR1P/IKIJFgrTiw==",
+  "dgSpecHash": "2nPGvM/oYIbHWXUEL/Xjevh8Ibbsff6KrTER9GstBQdjAHXq4/ikpt0ktYL4CxNMX3vKNKuCNEFJ9fZQ+qkg5Q==",
   "success": true,
   "projectFilePath": "E:\\GameDev\\DesignPatterns\\DesignPatterns.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nkoto_000\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nkoto_000\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\nkoto_000\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512"
+  ],
   "logs": []
 }
